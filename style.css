@@ -49,3 +49,18 @@ section:hover {
 body {
     line-height: 1.6;
 }
+
+header a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: white;
+    color: #0077cc;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+header a:hover {
+    background-color: #f0f0f0;
+}
